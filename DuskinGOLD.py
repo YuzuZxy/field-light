@@ -7,8 +7,8 @@ from astral import LocationInfo
 from astral.sun import sun
 
 
-APP1_NAME_ZH = "日暮融金"
-APP1_NAME_EN = "Dusk in Gold"
+APP1_NAME_ZH = "融金时刻"
+APP1_NAME_EN = "Dawn & Dusk in Gold"
 
 TEXT = {
     "title": {
