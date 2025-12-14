@@ -13,7 +13,7 @@ A trilingual astronomical time-tracking project
 **融金时刻（DD in Gold）** is a small command-line program that tracks  
 **sunrise, sunset, and current weather** for a given city.
 
-Light rises and falls each day —  
+Light rises and falls each day
 sometimes witnessed alone, sometimes shared.
 
 This project is both a tool and a quiet record:  
