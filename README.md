@@ -31,7 +31,7 @@ At runtime, the user selects one language, and the entire program runs along tha
 
 ## ✨ Features
 
-- 🌍 City-based location input (no need for latitude/longitude)
+- 🌍 City-based location as input
 - 🌅 Accurate sunrise & sunset calculation
 - 🌦️ Current weather information:
   - Temperature
